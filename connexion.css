@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: none;
+
+}
+.part3{
+    background-color: teal;
+    height: 500px;
+    width:500px;
+    border-radius: 5px;
+    margin-left:39% ;
+    margin-top: 10%;
+      
+}
+h1{
+    margin-left: 33%;
+  padding-top: 5%;
+}
+form{
+ margin-left: 20%;
+ padding-top: 15%;
+}
+label{
+    margin-left: 10px;
+}
+
+input{
+    margin: 10px;
+    height: 30px;
+    width:300px;
+}
+button{
+    margin:10px;
+    margin-left:25%;
+    height: 30px;
+    width: 80px;
+    border-radius: 18px;
+
+}
+a{
+    text-decoration: none;
+}   
+p{
+  margin-right: 0%;
+}
